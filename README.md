@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning JavaScript lanjutan lewat channel [Web Programming UNPAS (Sandika Galih)](https://www.youtube.com/c/ProgrammerZamanNow)
+- 🌱 Currently learning OOP and WEB DASAR
 - 💻 Passionate about building clean, interactive web experiences
 - 📫 Reach me through the links below
 
