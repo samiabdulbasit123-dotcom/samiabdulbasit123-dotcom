@@ -43,7 +43,7 @@
 
 </div>
 
-> ⚠️ Kalau gambar snake di atas belum muncul, jalankan dulu workflow `.github/workflows/snake.yml` (file sudah disiapkan terpisah) lewat tab **Actions** di repo kamu, klik **Run workflow**.
+
 
 ---
 
